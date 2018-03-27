@@ -1,1 +1,3 @@
 F = (9C/5) + 32
+
+This helps you convert from Celcius to Farenheit. Simply substitute C for the temperature and away you go!
